@@ -3,7 +3,7 @@
 This project is designed to detect AI-generated videos using state-of-the-art deep learning models. It leverages transfer learning and recurrent neural networks (RNNs) to analyze visual and auditory data, providing a reliable solution for identifying AI-generated content. The goal is to ensure content authenticity and mitigate the spread of misinformation.
 
 ## Features
-- **Video Analysis**: Detects tampered or AI-generated video frames using transformer-based models.
+- **Video Analysis**: Detects tampered or AI-generated video frames using transfer learning + RNN based models.
 - **Audio Analysis**: Identifies synthesized or altered audio patterns for enhanced accuracy.
 - **Combined Detection**: Integrates video and audio analysis for comprehensive deepfake detection.
 - **Customizable Models**: Easily adapt the architecture for specific datasets or applications.
