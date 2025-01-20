@@ -1,6 +1,6 @@
-# Deepfake Video and Audio Detection
+# AI-generated Video Detection
 
-This project is designed to detect deepfake videos and audio using state-of-the-art deep learning models. It leverages transformers and recurrent neural networks (RNNs) to analyze visual and auditory data, providing a reliable solution for identifying AI-generated content. The goal is to ensure content authenticity and mitigate the spread of misinformation.
+This project is designed to detect AI-generated videos using state-of-the-art deep learning models. It leverages transfer learning and recurrent neural networks (RNNs) to analyze visual and auditory data, providing a reliable solution for identifying AI-generated content. The goal is to ensure content authenticity and mitigate the spread of misinformation.
 
 ## Features
 - **Video Analysis**: Detects tampered or AI-generated video frames using transformer-based models.
@@ -15,7 +15,7 @@ This project is designed to detect deepfake videos and audio using state-of-the-
 - **FFmpeg**: For video and audio preprocessing.
 - **MoviePy**: For video and audio preprocessing.
 - **OpenCV**: For processing of video frames.
-- **Resnet**: For transfer learning.
+- **Resnet50**: For transfer learning.
 - **Librosa**: For feature extraction of audio data.
 
 ## Usage
