@@ -1,0 +1,8 @@
+sklearn
+pandas
+tensorflow
+moviepy
+opencv-python
+ffpmeg
+librosa
+joblib
